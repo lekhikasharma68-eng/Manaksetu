@@ -95,7 +95,7 @@ GPS is treated as supporting location information, not as proof of a violation.
 - **Live Prototype:**  [Open ManakSetu Prototype](https://manaksetu-b388xi6l8-aryan2006choudhary-9873.vercel.app)
 - **Project Demonstration Video:** [Watch ManakSetu Demo](YOUR_YOUTUBE_LINK)
 - **Project Report:** [View Project Report](docs/ManakSetu_SIH_Project_Report.pdf)
-- - **Presentation PDF:** [View SIH Presentation](docs/ManakSetu_SIH_Presentation.pdf)
+- - **Presentation PDF:** [View SIH Presentation](docs/MANAKSETU_pdf.pdf)
 
 
 ## Technology Stack
